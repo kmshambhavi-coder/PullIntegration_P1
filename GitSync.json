@@ -1,0 +1,17 @@
+{
+    "system_version": "6.1.6.186",
+    "readme_addons": {
+        "Integration": {
+            "GoogleChronicle": "Test"
+        },
+        "Mappings": {},
+        "Visual Family": {},
+        "Playbook": {},
+        "Connector": {},
+        "Job": {},
+        "Block": {}
+    },
+    "settings": {
+        "update_root_readme": true
+    }
+}
